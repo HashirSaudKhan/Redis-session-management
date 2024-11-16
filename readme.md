@@ -56,9 +56,9 @@ This will return the session data stored in Redis, or a `404` error if the sessi
 ## Redis Commands:
 You can also manually check the stored data in Redis using the `redis-cli`:
 1. List all keys: `KEYS *`
-2. Get session data: `GET session_john`
-3. Check session expiration: `TTL session_john`
-4. Delete session: `DEL session_john`
+2. Get session data: `GET session_Hsk`
+3. Check session expiration: `TTL session_Hsk`
+4. Delete session: `DEL session_Hsk`
 
 
 
